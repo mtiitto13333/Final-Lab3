@@ -1,9 +1,10 @@
 <header>
+    <h1 class="title">Maija Tiitto</h1>
     <nav>
-
+    
     {% for page in collections.page -%}
-
-        <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+     
+        <li class="link"><a href="{{ page.url }}">{{ page.data.title }}</a></li>
 
     {% endfor -%} 
 
