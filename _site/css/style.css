@@ -12,7 +12,6 @@ nav {
     text-decoration: none;
     background-color: darkslategray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
 }
 a {
    text-decoration: none;
@@ -26,18 +25,14 @@ body {
     font-family: sans-serif;
 }
 header {
-    
     padding-top: 3%;
     color: lightcoral;
     background-color: lightcoral;
 }
- 
 p,li,h1 {
     margin-left: 5%;
-    margin-right: 50%;
-    
+    margin-right: 50%; 
 }
-
 h1 {
     color: lightcoral;
 }
